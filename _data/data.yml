@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Taylor Washington
+    tagline: Backend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: taylor.washington@gmail.com
+    phone: 404 227 4643
+    website: blog.taylor.com #do not add http://
+    linkedin: taylor-washington
+    github: tejorwa
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@TJWashington94'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -27,21 +27,21 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
         level: Professional
         
     interests:
-      - item: Climbing
+      - item: Soccer
         link:
 
-      - item: Snowboarding
+      - item: Skiing
         link:
 
       - item: Cooking
         link:
+        
+      - item: Finance 
+        link: 
 
 career-profile:
     title: Career Profile
@@ -54,23 +54,10 @@ career-profile:
 
       Second paragraph if required.
 
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+education: 
+    - degree: BSc in Astronomy
+      university: University of Colorado Boulder
+      time: 2013 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,7 +69,7 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
+    - role: Python Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
@@ -99,7 +86,7 @@ experiences:
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
+    - role: Software Engineer
       time: 2014 - 2015
       company: Google, London
       details: |
